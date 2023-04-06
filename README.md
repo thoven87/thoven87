@@ -1,4 +1,6 @@
-### Hi there 👋 I am Stevenson Michel, a Software Engineer based in New York. Writting software is one of my greatest passion. I have written software in may languages, but I am particular fond of Rust, TypeScript, Scala and Dart.
+### Hi there 👋!
+
+I am Stevenson Michel, a Software Engineer based in New York. Writting software is one of my greatest passion. I have written software in may languages, but I am particular fond of Rust, TypeScript, Scala and Dart.
 
 Beside writting software, I have a passion for Photography (Still life and Potraiture).
 
