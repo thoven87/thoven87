@@ -2,7 +2,7 @@
 
 I am Stevenson Michel, a Software Engineer based in New York. Writting software is one of my greatest passion. I have written software in may languages, but I am particular fond of Rust, TypeScript, Scala and Dart.
 
-Beside writting software, I have a passion for Photography (Still life and Potraiture).
+Beside writting software, I have a passion for Photography.
 
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about Swift, Rust or Data processing (Streaming and Batch)
