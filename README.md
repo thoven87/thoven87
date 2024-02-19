@@ -4,7 +4,6 @@ I am Stevenson Michel, a Software Engineer based in New York. Writting software 
 
 Beside writting software, I have a passion for Photography (Still life and Potraiture).
 
-- 🔭 I’m currently working at Spotify
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about Swift, Rust or Data processing (Streaming and Batch)
 - 📫 How to reach me: 
